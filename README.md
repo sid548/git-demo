@@ -3,4 +3,7 @@ This is demo repository.
 <br>
 Author - Sidharth Singh
 <br>
-College - ISM Dhanbad
+B.Tech College - ISM Dhanbad
+<br>
+M.Tech College - IIT Bombay
+
